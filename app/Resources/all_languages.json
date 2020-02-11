@@ -676,6 +676,17 @@
     "language_code": "vi-vn",
     "locale": "vi-VN"
   },
+  
+  "ku": {
+    "name": "كوردی (Kurdish)",
+    "iso_code": "ku",
+    "date_format_lite": "d/m/Y",
+    "date_format_full": "H:i:s dd/mmm/YYYY",
+    "is_rtl": "1",
+    "language_code": "ku-iq",
+    "locale": "ku-IQ"
+  },
+  
   "zh": {
     "name": "中文 (Simplified Chinese)",
     "iso_code": "zh",
